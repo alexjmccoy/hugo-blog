@@ -12,3 +12,5 @@ I'm setting out this year to build and maintain two new habits:
 2. Photography
 
 This is in addition to managing and developing other habits, like guitar playing, endurance training, and walking the dog.
+
+![The boys at Rehoboth Beach](/img/happy-2025/boys-at-beach.jpeg)
