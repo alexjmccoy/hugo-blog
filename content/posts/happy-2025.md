@@ -10,3 +10,5 @@ I'm setting out this year to build and maintain two new habits:
 
 1. Regular writing and blogging
 2. Photography
+
+This is in addition to managing and developing other habits, like guitar playing, endurance training, and walking the dog.
