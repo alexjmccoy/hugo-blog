@@ -1,8 +1,8 @@
-+++
-date = '2025-01-02T09:54:13-05:00'
-draft = false
-title = 'Happy 2025'
-+++
+---
+date: "2025-01-02T09:54:13-05:00"
+draft: false
+title: Happy 2025
+---
 
 # New Year, New Blog!
 
