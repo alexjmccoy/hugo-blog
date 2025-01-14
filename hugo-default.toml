@@ -1,0 +1,4 @@
+baseURL = 'https://alexjmccoy.com/'
+languageCode = 'en-us'
+title = 'Blog for Alex'
+theme = 'ananke'
