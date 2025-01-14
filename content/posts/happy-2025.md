@@ -13,4 +13,4 @@ I'm setting out this year to build and maintain two new habits:
 
 This is in addition to managing and developing other habits, like guitar playing, endurance training, and walking the dog.
 
-![The boys at Rehoboth Beach](/img/happy-2025/boys-at-beach.jpeg)
+![The boys at Rehoboth Beach](https://alzxjm.com/2025/IMG_3197.jpeg)
