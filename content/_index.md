@@ -1,5 +1,5 @@
 ---
-title: "Alex Blog"
+title: "Alex's Blog"
 
 description: "This is my blog and it is nice."
 theme_version: '2.8.2'
