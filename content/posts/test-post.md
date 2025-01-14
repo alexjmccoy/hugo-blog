@@ -16,4 +16,4 @@ This was written on the VPS with hugo installed and the images are served up on 
 Here's a test image, uploaded from the iPad with Secure Shellfish:
 
 
-![in the trees](/var/www/html/2025/IMG_3217.jpeg)
+![in the trees](https://alzxjm.com/2025/IMG_3217.jpeg)
