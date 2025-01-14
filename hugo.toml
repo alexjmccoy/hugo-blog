@@ -1,4 +1,4 @@
-title = "Alex Blog"
+title = "Alex's Blog"
 baseURL = "https://alexjmccoy.com"
 theme = "ananke"
 resourceDir = "../resources"
@@ -16,7 +16,7 @@ pagerSize = 5 # this is set low for demonstrating with dummy content. Set to a h
 contentDir = "content"
 languageCode = 'en-US'
 weight = 1
-title = "Alex Blog"
+title = "Alex's Blog"
 
 [sitemap]
 changefreq = "monthly"
