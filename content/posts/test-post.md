@@ -8,12 +8,11 @@ title = 'Test Post'
 
 I wanted to alter my configuration to 
 
-a. make it possible to blog from my iPad AND
-b. host images on the VPS
+1. make it possible to blog from my iPad AND
+2. host images on the VPS
 
 This was written on the VPS with hugo installed and the images are served up on the same VPS with caddy.
 
 Here's a test image, uploaded from the iPad with Secure Shellfish:
-
 
 ![in the trees](https://alzxjm.com/2025/IMG_3217.jpeg)
