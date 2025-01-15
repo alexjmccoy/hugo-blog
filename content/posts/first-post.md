@@ -1,9 +1,9 @@
-+++
-title: 'First Post'
+---
+title: "First Post"
 date: 2025-01-14T20:16:16Z
 draft: false
-featured_image: 'https://alzxjm.com/2025-photos/IMG_3217.jpeg'
-+++
+featured_image: "https://alzxjm.com/2025/IMG_3217.jpeg"
+---
 
 # First Post
 
